@@ -1,0 +1,21 @@
+2026-10-24 10:02:02,198 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-24 10:02:02,198 - INFO - No history file found - starting with empty history
+2026-10-24 10:02:02,199 - INFO - Calculator initialized with configuration
+2026-10-24 10:02:02,199 - INFO - Added observer: LoggingObserver
+2026-10-24 10:02:02,199 - INFO - Added observer: AutoSaveObserver
+2026-10-24 10:02:02,202 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-24 10:02:02,202 - INFO - No history file found - starting with empty history
+2026-10-24 10:02:02,202 - INFO - Calculator initialized with configuration
+2026-10-24 10:02:02,202 - INFO - Added observer: LoggingObserver
+2026-10-24 10:02:02,202 - INFO - Added observer: AutoSaveObserver
+2026-10-24 10:02:02,208 - INFO - Empty history saved
+2026-10-24 10:02:02,211 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-24 10:02:02,214 - INFO - Loaded empty history file
+2026-10-24 10:02:02,214 - INFO - Calculator initialized with configuration
+2026-10-24 10:02:02,214 - INFO - Added observer: LoggingObserver
+2026-10-24 10:02:02,214 - INFO - Added observer: AutoSaveObserver
+2026-10-24 10:02:02,214 - INFO - Set operation: Addition
+2026-10-24 10:02:02,214 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-10-24 10:02:02,216 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-24 10:02:02,216 - INFO - History auto-saved
+2026-10-24 10:02:02,220 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv

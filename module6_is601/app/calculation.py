@@ -71,7 +71,8 @@ class Calculation:
             "Percentage": lambda x, y: (
                 ((x / y) * 100)
                 if y != 0 else self._raise_div_zero()
-                )
+                ),
+            "AbsoluteDiff": lambda x, y: abs(x - y),
         }
 
         # Retrieve the operation function based on the operation name

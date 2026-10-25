@@ -134,3 +134,19 @@
 2026-10-25 17:30:07,942 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
 2026-10-25 17:30:07,942 - INFO - History auto-saved
 2026-10-25 17:31:38,864 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:42:23,249 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 18:42:23,254 - WARNING - Loaded calculation result 0.1000000000000000055511151231257827021181583404541015625 differs from computed result 0.100
+2026-10-25 18:42:23,254 - WARNING - Loaded calculation result 0.6999999999999999555910790149937383830547332763671875 differs from computed result 0.700
+2026-10-25 18:42:23,254 - INFO - Loaded 22 calculations from history
+2026-10-25 18:42:23,254 - INFO - Calculator initialized with configuration
+2026-10-25 18:42:23,254 - INFO - Added observer: LoggingObserver
+2026-10-25 18:42:23,254 - INFO - Added observer: AutoSaveObserver
+2026-10-25 18:42:30,149 - INFO - Set operation: AbsoluteDiff
+2026-10-25 18:42:30,150 - INFO - Calculation performed: AbsoluteDiff (2, 1) = 1
+2026-10-25 18:42:30,154 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:42:30,154 - INFO - History auto-saved
+2026-10-25 18:42:38,461 - INFO - Set operation: AbsoluteDiff
+2026-10-25 18:42:38,461 - INFO - Calculation performed: AbsoluteDiff (1, 2) = 1
+2026-10-25 18:42:38,463 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:42:38,463 - INFO - History auto-saved
+2026-10-25 18:42:47,317 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv

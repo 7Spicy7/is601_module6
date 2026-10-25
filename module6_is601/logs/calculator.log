@@ -1,0 +1,136 @@
+2026-10-25 16:29:02,004 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 16:29:02,004 - INFO - No history file found - starting with empty history
+2026-10-25 16:29:02,005 - INFO - Calculator initialized with configuration
+2026-10-25 16:29:02,005 - INFO - Added observer: LoggingObserver
+2026-10-25 16:29:02,005 - INFO - Added observer: AutoSaveObserver
+2026-10-25 16:37:26,933 - INFO - Empty history saved
+2026-10-25 16:46:15,216 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 16:46:15,222 - INFO - Loaded empty history file
+2026-10-25 16:46:15,222 - INFO - Calculator initialized with configuration
+2026-10-25 16:46:15,222 - INFO - Added observer: LoggingObserver
+2026-10-25 16:46:15,222 - INFO - Added observer: AutoSaveObserver
+2026-10-25 16:46:18,716 - INFO - Set operation: Addition
+2026-10-25 16:46:18,717 - INFO - Calculation performed: Addition (1, 2) = 3
+2026-10-25 16:46:18,723 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 16:46:18,723 - INFO - History auto-saved
+2026-10-25 16:46:30,070 - INFO - Set operation: Root
+2026-10-25 16:46:30,070 - INFO - Calculation performed: Root (4, 2) = 2
+2026-10-25 16:46:30,072 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 16:46:30,072 - INFO - History auto-saved
+2026-10-25 16:46:39,418 - INFO - Set operation: Root
+2026-10-25 16:46:39,418 - INFO - Calculation performed: Root (9, 3) = 2.080083823051904090561947668902575969696044921875
+2026-10-25 16:46:39,420 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 16:46:39,420 - INFO - History auto-saved
+2026-10-25 17:07:38,646 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:10:06,928 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 17:10:06,933 - INFO - Loaded 3 calculations from history
+2026-10-25 17:10:06,933 - INFO - Calculator initialized with configuration
+2026-10-25 17:10:06,933 - INFO - Added observer: LoggingObserver
+2026-10-25 17:10:06,933 - INFO - Added observer: AutoSaveObserver
+2026-10-25 17:10:19,238 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:11:10,447 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 17:11:10,455 - INFO - Loaded 3 calculations from history
+2026-10-25 17:11:10,456 - INFO - Calculator initialized with configuration
+2026-10-25 17:11:10,456 - INFO - Added observer: LoggingObserver
+2026-10-25 17:11:10,456 - INFO - Added observer: AutoSaveObserver
+2026-10-25 17:11:22,485 - INFO - Set operation: Percentage
+2026-10-25 17:11:22,485 - INFO - Calculation performed: Percentage (4E+1, 2E+1) = 200
+2026-10-25 17:11:22,490 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:11:22,490 - INFO - History auto-saved
+2026-10-25 17:11:36,824 - INFO - Set operation: Percentage
+2026-10-25 17:11:36,824 - INFO - Calculation performed: Percentage (2E+1, 4E+1) = 50.0
+2026-10-25 17:11:36,826 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:11:36,826 - INFO - History auto-saved
+2026-10-25 17:12:41,448 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:12:43,228 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 17:12:43,231 - INFO - Loaded 5 calculations from history
+2026-10-25 17:12:43,231 - INFO - Calculator initialized with configuration
+2026-10-25 17:12:43,231 - INFO - Added observer: LoggingObserver
+2026-10-25 17:12:43,231 - INFO - Added observer: AutoSaveObserver
+2026-10-25 17:12:49,751 - INFO - Set operation: Percentage
+2026-10-25 17:12:49,752 - INFO - Calculation performed: Percentage (1, 1E+2) = 1.00
+2026-10-25 17:12:49,757 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:12:49,757 - INFO - History auto-saved
+2026-10-25 17:12:59,056 - INFO - Set operation: Percentage
+2026-10-25 17:12:59,056 - INFO - Calculation performed: Percentage (5E+1, 1E+2) = 50.0
+2026-10-25 17:12:59,058 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:12:59,058 - INFO - History auto-saved
+2026-10-25 17:16:18,448 - INFO - Set operation: Division
+2026-10-25 17:16:18,450 - INFO - Calculation performed: Division (5E+1, 1E+2) = 0.5
+2026-10-25 17:16:18,453 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:16:18,453 - INFO - History auto-saved
+2026-10-25 17:16:29,478 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:16:59,306 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 17:16:59,310 - INFO - Loaded 8 calculations from history
+2026-10-25 17:16:59,311 - INFO - Calculator initialized with configuration
+2026-10-25 17:16:59,311 - INFO - Added observer: LoggingObserver
+2026-10-25 17:16:59,311 - INFO - Added observer: AutoSaveObserver
+2026-10-25 17:17:06,846 - INFO - Set operation: Percentage
+2026-10-25 17:17:06,846 - INFO - Calculation performed: Percentage (5E+1, 1E+2) = 50.0
+2026-10-25 17:17:06,851 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:17:06,851 - INFO - History auto-saved
+2026-10-25 17:19:39,267 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:19:43,757 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 17:19:43,763 - INFO - Loaded 9 calculations from history
+2026-10-25 17:19:43,763 - INFO - Calculator initialized with configuration
+2026-10-25 17:19:43,763 - INFO - Added observer: LoggingObserver
+2026-10-25 17:19:43,763 - INFO - Added observer: AutoSaveObserver
+2026-10-25 17:19:48,974 - INFO - Set operation: Modulus
+2026-10-25 17:19:48,974 - INFO - Calculation performed: Modulus (4, 2) = 0
+2026-10-25 17:19:48,979 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:19:48,980 - INFO - History auto-saved
+2026-10-25 17:19:55,097 - INFO - Set operation: Modulus
+2026-10-25 17:19:55,097 - INFO - Calculation performed: Modulus (5, 3) = 2
+2026-10-25 17:19:55,099 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:19:55,099 - INFO - History auto-saved
+2026-10-25 17:20:03,907 - INFO - Set operation: Modulus
+2026-10-25 17:20:03,907 - INFO - Calculation performed: Modulus (1.9E+2, 17) = 3
+2026-10-25 17:20:03,909 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:20:03,910 - INFO - History auto-saved
+2026-10-25 17:20:18,523 - INFO - Set operation: Percentage
+2026-10-25 17:20:18,524 - INFO - Calculation performed: Percentage (1E+1, 1E+2) = 10.0
+2026-10-25 17:20:18,525 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:20:18,526 - INFO - History auto-saved
+2026-10-25 17:21:53,707 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:23:45,391 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 17:23:45,398 - INFO - Loaded 13 calculations from history
+2026-10-25 17:23:45,398 - INFO - Calculator initialized with configuration
+2026-10-25 17:23:45,398 - INFO - Added observer: LoggingObserver
+2026-10-25 17:23:45,398 - INFO - Added observer: AutoSaveObserver
+2026-10-25 17:23:50,167 - INFO - Set operation: IDivision
+2026-10-25 17:23:50,167 - INFO - Calculation performed: IDivision (5, 2) = 2.5
+2026-10-25 17:23:50,174 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:23:50,174 - INFO - History auto-saved
+2026-10-25 17:23:57,684 - INFO - Set operation: IDivision
+2026-10-25 17:23:57,685 - INFO - Calculation performed: IDivision (7, 1) = 7
+2026-10-25 17:23:57,687 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:23:57,687 - INFO - History auto-saved
+2026-10-25 17:24:06,071 - INFO - Set operation: Percentage
+2026-10-25 17:24:06,071 - INFO - Calculation performed: Percentage (1, 1E+2) = 1.00
+2026-10-25 17:24:06,073 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:24:06,073 - INFO - History auto-saved
+2026-10-25 17:24:12,940 - INFO - Set operation: Percentage
+2026-10-25 17:24:12,940 - INFO - Calculation performed: Percentage (1E+1, 1E+2) = 10.0
+2026-10-25 17:24:12,942 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:24:12,943 - INFO - History auto-saved
+2026-10-25 17:24:21,013 - INFO - Set operation: Percentage
+2026-10-25 17:24:21,013 - INFO - Calculation performed: Percentage (1E+1, 1E+3) = 1.00
+2026-10-25 17:24:21,016 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:24:21,016 - INFO - History auto-saved
+2026-10-25 17:24:30,155 - INFO - Set operation: Percentage
+2026-10-25 17:24:30,155 - INFO - Calculation performed: Percentage (1, 1E+3) = 0.100
+2026-10-25 17:24:30,159 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:24:30,159 - INFO - History auto-saved
+2026-10-25 17:28:44,779 - INFO - Set operation: Percentage
+2026-10-25 17:28:44,780 - INFO - Calculation performed: Percentage (7, 1E+3) = 0.700
+2026-10-25 17:28:44,783 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:28:44,783 - INFO - History auto-saved
+2026-10-25 17:28:54,541 - INFO - Set operation: Percentage
+2026-10-25 17:28:54,541 - INFO - Calculation performed: Percentage (7, 1E+2) = 7.00
+2026-10-25 17:28:54,543 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:28:54,544 - INFO - History auto-saved
+2026-10-25 17:30:07,939 - INFO - Set operation: Percentage
+2026-10-25 17:30:07,940 - INFO - Calculation performed: Percentage (1E+1, 1E+2) = 10.0
+2026-10-25 17:30:07,942 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 17:30:07,942 - INFO - History auto-saved
+2026-10-25 17:31:38,864 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv

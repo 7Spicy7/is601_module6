@@ -399,9 +399,9 @@ class OperationFactory:
         'power': Power,
         'root': Root,
         'modulus': Modulus,
-        'idivide': IDivision,
-        'percentage': Percentage,
-        'absolute': AbsoluteDiff
+        'int_divide': IDivision,
+        'percent': Percentage,
+        'abs_diff': AbsoluteDiff
     }
 
     @classmethod

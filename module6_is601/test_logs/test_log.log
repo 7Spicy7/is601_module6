@@ -18,3 +18,43 @@
 2026-10-25 16:37:58,016 - INFO - Calculation performed: Addition (2, 3) = 5
 2026-10-25 16:37:58,018 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/test_history/test_history.csv
 2026-10-25 16:37:58,057 - INFO - History auto-saved
+2026-10-25 18:58:50,005 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/test_logs/test_log.log
+2026-10-25 18:58:50,008 - INFO - Loaded 1 calculations from history
+2026-10-25 18:58:50,009 - INFO - Calculator initialized with configuration
+2026-10-25 18:58:50,009 - INFO - Added observer: LoggingObserver
+2026-10-25 18:58:50,009 - INFO - Added observer: AutoSaveObserver
+2026-10-25 18:58:50,012 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/test_logs/test_log.log
+2026-10-25 18:58:50,014 - INFO - Loaded 1 calculations from history
+2026-10-25 18:58:50,014 - INFO - Calculator initialized with configuration
+2026-10-25 18:58:50,014 - INFO - Added observer: LoggingObserver
+2026-10-25 18:58:50,014 - INFO - Added observer: AutoSaveObserver
+2026-10-25 18:58:50,018 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/test_history/test_history.csv
+2026-10-25 18:58:50,021 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/test_logs/test_log.log
+2026-10-25 18:58:50,024 - INFO - Loaded 1 calculations from history
+2026-10-25 18:58:50,024 - INFO - Calculator initialized with configuration
+2026-10-25 18:58:50,024 - INFO - Added observer: LoggingObserver
+2026-10-25 18:58:50,024 - INFO - Added observer: AutoSaveObserver
+2026-10-25 18:58:50,024 - INFO - Set operation: Addition
+2026-10-25 18:58:50,024 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-10-25 18:58:50,026 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/test_history/test_history.csv
+2026-10-25 18:58:50,061 - INFO - History auto-saved
+2026-10-25 19:00:10,499 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/test_logs/test_log.log
+2026-10-25 19:00:10,503 - INFO - Loaded 2 calculations from history
+2026-10-25 19:00:10,503 - INFO - Calculator initialized with configuration
+2026-10-25 19:00:10,503 - INFO - Added observer: LoggingObserver
+2026-10-25 19:00:10,503 - INFO - Added observer: AutoSaveObserver
+2026-10-25 19:00:10,505 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/test_logs/test_log.log
+2026-10-25 19:00:10,508 - INFO - Loaded 2 calculations from history
+2026-10-25 19:00:10,508 - INFO - Calculator initialized with configuration
+2026-10-25 19:00:10,508 - INFO - Added observer: LoggingObserver
+2026-10-25 19:00:10,508 - INFO - Added observer: AutoSaveObserver
+2026-10-25 19:00:10,512 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/test_history/test_history.csv
+2026-10-25 19:00:10,516 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/test_logs/test_log.log
+2026-10-25 19:00:10,519 - INFO - Loaded 2 calculations from history
+2026-10-25 19:00:10,519 - INFO - Calculator initialized with configuration
+2026-10-25 19:00:10,519 - INFO - Added observer: LoggingObserver
+2026-10-25 19:00:10,519 - INFO - Added observer: AutoSaveObserver
+2026-10-25 19:00:10,519 - INFO - Set operation: Addition
+2026-10-25 19:00:10,519 - INFO - Calculation performed: Addition (2, 3) = 5
+2026-10-25 19:00:10,521 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/test_history/test_history.csv
+2026-10-25 19:00:10,561 - INFO - History auto-saved

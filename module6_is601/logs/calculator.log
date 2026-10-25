@@ -150,3 +150,31 @@
 2026-10-25 18:42:38,463 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
 2026-10-25 18:42:38,463 - INFO - History auto-saved
 2026-10-25 18:42:47,317 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:49:51,013 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-25 18:49:51,020 - WARNING - Loaded calculation result 0.1000000000000000055511151231257827021181583404541015625 differs from computed result 0.100
+2026-10-25 18:49:51,020 - WARNING - Loaded calculation result 0.6999999999999999555910790149937383830547332763671875 differs from computed result 0.700
+2026-10-25 18:49:51,021 - INFO - Loaded 24 calculations from history
+2026-10-25 18:49:51,021 - INFO - Calculator initialized with configuration
+2026-10-25 18:49:51,021 - INFO - Added observer: LoggingObserver
+2026-10-25 18:49:51,021 - INFO - Added observer: AutoSaveObserver
+2026-10-25 18:50:00,967 - INFO - Set operation: IDivision
+2026-10-25 18:50:00,968 - INFO - Calculation performed: IDivision (6, 4) = 1.5
+2026-10-25 18:50:00,972 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:50:00,972 - INFO - History auto-saved
+2026-10-25 18:50:09,792 - INFO - Set operation: Percentage
+2026-10-25 18:50:09,792 - INFO - Calculation performed: Percentage (98, 2) = 4900
+2026-10-25 18:50:09,794 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:50:09,794 - INFO - History auto-saved
+2026-10-25 18:50:21,687 - INFO - Set operation: Percentage
+2026-10-25 18:50:21,687 - INFO - Calculation performed: Percentage (2, 98) = 2.040816326530612244897959184
+2026-10-25 18:50:21,689 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:50:21,689 - INFO - History auto-saved
+2026-10-25 18:50:33,168 - INFO - Set operation: AbsoluteDiff
+2026-10-25 18:50:33,168 - INFO - Calculation performed: AbsoluteDiff (2, 3) = 1
+2026-10-25 18:50:33,170 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:50:33,171 - INFO - History auto-saved
+2026-10-25 18:50:37,945 - INFO - Set operation: AbsoluteDiff
+2026-10-25 18:50:37,945 - INFO - Calculation performed: AbsoluteDiff (3, 2) = 1
+2026-10-25 18:50:37,947 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-25 18:50:37,947 - INFO - History auto-saved
+2026-10-25 18:50:41,059 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv

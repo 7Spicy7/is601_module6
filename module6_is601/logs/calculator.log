@@ -178,3 +178,14 @@
 2026-10-25 18:50:37,947 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
 2026-10-25 18:50:37,947 - INFO - History auto-saved
 2026-10-25 18:50:41,059 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
+2026-10-26 13:40:59,582 - INFO - Logging initialized at: /home/aaronr/projects/module6_is601/logs/calculator.log
+2026-10-26 13:40:59,586 - WARNING - Loaded calculation result 2.5 differs from computed result 2
+2026-10-26 13:40:59,587 - WARNING - Loaded calculation result 0.1000000000000000055511151231257827021181583404541015625 differs from computed result 0.100
+2026-10-26 13:40:59,587 - WARNING - Loaded calculation result 0.6999999999999999555910790149937383830547332763671875 differs from computed result 0.700
+2026-10-26 13:40:59,587 - WARNING - Loaded calculation result 1.5 differs from computed result 1
+2026-10-26 13:40:59,587 - WARNING - Loaded calculation result 2.0408163265306118461239748285152018070220947265625 differs from computed result 2.040816326530612244897959184
+2026-10-26 13:40:59,587 - INFO - Loaded 29 calculations from history
+2026-10-26 13:40:59,587 - INFO - Calculator initialized with configuration
+2026-10-26 13:40:59,587 - INFO - Added observer: LoggingObserver
+2026-10-26 13:40:59,587 - INFO - Added observer: AutoSaveObserver
+2026-10-26 13:43:52,400 - INFO - History saved successfully to /home/aaronr/projects/module6_is601/history/calculator_history.csv
